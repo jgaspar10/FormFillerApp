@@ -1,0 +1,12 @@
+D:\Form Filler Winforms\FormFillerApp\bin\Debug\FormFillerApp.exe.config
+D:\Form Filler Winforms\FormFillerApp\bin\Debug\FormFillerApp.exe
+D:\Form Filler Winforms\FormFillerApp\bin\Debug\FormFillerApp.pdb
+D:\Form Filler Winforms\FormFillerApp\bin\Debug\Guna.UI2.dll
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.csproj.AssemblyReference.cache
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.Properties.Resources.resources
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.csproj.GenerateResource.cache
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.csproj.CoreCompileInputs.cache
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.csproj.CopyComplete
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.exe
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.pdb
+D:\Form Filler Winforms\FormFillerApp\obj\Debug\FormFillerApp.FormFillerApplication.resources
