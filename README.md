@@ -50,11 +50,6 @@ To use the Form Filler Application:
 ![Form1 2023-07-17 17-21-10](https://github.com/jgaspar10/FormFillerApp/assets/61797706/115dfe35-073d-40ab-8185-cf20e152d39d)
 
 
-
-
-
-
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the Form Filler Application, please feel free to submit a pull request.
