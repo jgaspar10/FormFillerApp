@@ -37,17 +37,17 @@ To use the Form Filler Application:
 
 ## Screenshots
 
-![formfiller1](https://github.com/jgaspar10/FormFillerApp/assets/61797706/67f7bb72-eef0-40d1-bca9-94d318553c5e)
+![formfiller1](https://github.com/jgaspar10/FormFillerApp/assets/61797706/7c82f4e2-c1a0-48eb-9af1-0bb5968375e3)
 
-![formfiller2](https://github.com/jgaspar10/FormFillerApp/assets/61797706/4ae0ce12-7e69-41e9-96be-8802d1e0ce2f)
+![formfiller2](https://github.com/jgaspar10/FormFillerApp/assets/61797706/ef80f58a-b4d4-4150-ab44-933cef8b5ee8)
 
-![formfiller3](https://github.com/jgaspar10/FormFillerApp/assets/61797706/9fe17818-625c-4a72-a032-3c4651b4e021)
+![formfiller3](https://github.com/jgaspar10/FormFillerApp/assets/61797706/965b088a-a562-41ab-a839-1791adf633a7)
 
-![formfiller5](https://github.com/jgaspar10/FormFillerApp/assets/61797706/34f420ca-da9d-4387-9f7c-381f92b5a0cb)
+![formfiller5](https://github.com/jgaspar10/FormFillerApp/assets/61797706/7ecbac0a-4fc5-437f-9c61-ae16258765fb)
 
-![formfiller4](https://github.com/jgaspar10/FormFillerApp/assets/61797706/f8b93865-f093-4106-b35b-2188d0b7f0f7)
+![formfiller4](https://github.com/jgaspar10/FormFillerApp/assets/61797706/dadb0fda-3074-473a-a781-a530142dd46d)
 
-![Form1 2023-07-17 17-21-10](https://github.com/jgaspar10/FormFillerApp/assets/61797706/115dfe35-073d-40ab-8185-cf20e152d39d)
+![Form1 2023-07-17 17-21-10](https://github.com/jgaspar10/FormFillerApp/assets/61797706/98362ef1-cce7-46d9-8b8d-fc2dec15e4f2)
 
 
 ## Contributing
